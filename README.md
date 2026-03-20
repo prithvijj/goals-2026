@@ -6,4 +6,5 @@ Just a checklist of things I hopefully would like to get out in 2026
   - [ ] Software Engineering at Google (start: Jan 21, 2026) (end: TODO)
   - [ ] Kubernetes: Up and Running - Kelsey Hightower (start: TODO) (end: TODO)
 - [ ] Repository learning about Kubernetes
+- [ ] Repository learning about Home Servers 
 - [ ] TODO 
